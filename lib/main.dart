@@ -65,6 +65,7 @@ class _HomeState extends State<Home> {
                 child: Image.asset(
                   _foto,
                   fit: BoxFit.fitWidth,
+                  width: 250,
                 ),
               ),
               Text(
